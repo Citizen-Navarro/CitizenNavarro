@@ -26,7 +26,7 @@ I believe technology is a powerful tool to uplift communities. Through coding an
 
 ### 📫 Connect With Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/citizen-navarro-68813472/)
-- 📧 Email: your.navarro.citizen@gmail.com 
+- 📧 Email: navarro.citizen@gmail.com 
 
 ---
 
