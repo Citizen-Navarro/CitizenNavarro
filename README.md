@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Citizen Mbatha
 
-🎨 **Creative Technologist | Front-End Web Developer | UI/UX Designer**  
+🎨 **Creative Technologist | Junior Front-End Web Developer | UI/UX Designer**  
 🌍 Based in KwaZulu-Natal, South Africa  
 
 I'm a self-taught graphic designer with over **9 years of experience** and a growing passion for web development. Currently, I’m enrolled in the **ALX Front-End Development Program**, where I’m sharpening my skills in **HTML, CSS, JavaScript, React**, and responsive design.
